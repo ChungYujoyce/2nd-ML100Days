@@ -1,0 +1,47 @@
+作業1：
+
+請上 Kaggle, 在 Competitions 或 Dataset 中找一組競賽或資料並寫下：
+
+1. 你選的這組資料為何重要
+
+2. 資料從何而來 (tips: 譬如提供者是誰、以什麼方式蒐集)
+
+3. 蒐集而來的資料型態為何
+
+4. 這組資料想解決的問題如何評估
+
+Titanic: Machine Learning from Disaster
+
+Why it's important:
+Since it's related to human survive in huge disaster , and how to prevent in the future if another tragedy happens.
+
+Provider:
+It's previded by "Kaggle Learn" to help everyone learn about ML.
+
+Data type: 
+Numbers(binary) , stored in .csv files
+
+By using this set of data ,we can predict if a passanger can survive or not by machine learning model.
+By analyzing passanger's height , weight, gender, and other data which may has high relationship with survival rate.
+
+作業2：
+
+想像你經營一個自由載客車隊，你希望能透過數據分析以提升業績，請你思考並描述你如何規劃整體的分析/解決方案：
+
+1. 核心問題為何 (tips：如何定義 「提升業績 & 你的假設」)
+    Not enough clients, we have to enhance sales performance.
+    We suppose that our amount of sales is decreasing,so we have to improve our saling stradegies.
+2. 資料從何而來 (tips：哪些資料可能會對你想問的問題產生影響 & 資料如何蒐集)
+    We may make some survey about customers' feeling and feedback about us to get the market condition. 
+    Or the sales number of each month to observe if the number is really decreasing.
+    We makes a track and store data whenever a sale is successfully done ,thus if we want to check a certain sale,
+    search information in computer will do.
+    
+3. 蒐集而來的資料型態為何
+    It may be stored in excel files(sales amount)
+    
+4. 你要回答的問題，其如何評估 (tips：你的假設如何驗證)
+    If we suppose our amount of sales is really decreasing,by getting customers feedback, we can have some discount activities to get more customers , or have some VIP sort of things to attract more customers.
+    If the sales number inhance after out changes for one year,we can conclude that out stradegy success,else we need to make another change.
+
+
